@@ -7,7 +7,7 @@ int main(int argc, char **argv)
 {
 	char top_text[] = "QroOS Venom Management Tool";
 	char bottom_text[] = "Copyright 2023 QRodEX Technologies";
-	int color = 0x001f; // White foreground, black background
+	int color = 0x001f;
 	int key;
 
 	do {
